@@ -1,7 +1,7 @@
 <p align="center">
     <br><b>😫 ✦ӄɛɛք ʟǟʊɢɦɨռɢ ✘ ᴹᵘᶳᶤᶜ Ᏼo͢Ꭲ  😫</b><br>
 </p>
-<p align="center"><a href="https://t.me/Singing_music_idol_international"><img src="https://telegra.ph/file/89cbc8b8760b6abff430f.jpg"></a></p>
+<p align="center"><a href="https://t.me/Singing_music_idol_international"><img src="https://telegra.ph/file/a51ea7faf4cfc211f129b.jpg"></a></p>
 
 Fallen Music is a Telegram Bot project that allows you to play music on Telegram through Telegram Voice Chat Feature</b><br>
 
@@ -86,7 +86,7 @@ python3 main.py # Run the bot
 
 ### ᴄʀᴇᴅɪᴛs 💖
 - [ ӄɛɛք ʟǟʊɢɦɨռɢ ](https://github.com/keeplaughingxusertagbot): Developer
-- [Fallen Music Bot](https://telegram.me/fallen_music_bot): Test Bot
+- [ ✦ӄɛɛք ʟǟʊɢɦɨռɢ ✘ ᴹᵘᶳᶤᶜ Ᏼo͢Ꭲ ](https://telegram.me/keeplaughingxmusicbot): Test Bot
 
 [![ForTheBadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
