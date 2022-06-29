@@ -19,11 +19,11 @@ async def start_(client: Client, message: Message):
 ᴀʟʟ ᴏꜰ ᴍʏ ᴄᴏᴍᴍᴀɴᴅs ᴄᴀɴ ʙᴇ ᴜsᴇᴅ ᴡɪᴛʜ ᴍʏ ᴄᴏᴍᴍᴀɴᴅ ʜᴀɴᴅʟᴇʀs : ( `/ . • $ ^ ~ + * ?` )
 ┏━━━━━━━━━━━━━━┓
 ┣★
-┣★ ᴍᴀᴅᴇ ʙʏ: [ ӄɛɛք ʟǟʊɢɦɨռɢ ](t.me/{me})
+┣★ ᴘᴏᴡᴇʀᴇᴅ ʙʏ : [ 𝄟≛⃝ 𓆩𝐘𝐊𝐂𓆪ꪾ𝄟≛ ☛ ](https://t.me/yarri_ka_circle)
 ┣★
 ┗━━━━━━━━━━━━━━┛
 
-💞 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴀʙᴏᴜᴛ ᴍᴇ ᴛʜᴇɴ ᴅᴍ ᴛᴏ ᴍʏ [ᴏᴡɴᴇʀ](t.me/{me}) ʙᴀʙʏ...
+💞 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴀʙᴏᴜᴛ ᴍᴇ ᴛʜᴇɴ ᴅᴍ ᴛᴏ ᴍʏ [👑 ᴏᴡɴᴇʀ 👑](t.me/{me}) ʙᴀʙʏ...
 ━━━━━━━━━━━━━━━━━━**""",
     reply_markup=InlineKeyboardMarkup(
             [
@@ -33,17 +33,17 @@ async def start_(client: Client, message: Message):
                        ),
                   ],[
                     InlineKeyboardButton(
-                        "💔 ᴏᴡɴᴇʀ 💔", url=f"https://t.me/{me}"
+                        "👑 ᴏᴡɴᴇʀ 👑", url=f"https://t.me/{me}"
                     ),
                     InlineKeyboardButton(
-                        "🍒 sᴜᴘᴘᴏʀᴛ 🍒", url=f"https://t.me/{SUPPORT_GROUP}"
+                        "💫 sᴜᴘᴘᴏʀᴛ 💫", url=f"https://t.me/{SUPPORT_GROUP}"
                     )
                 ],[
                     InlineKeyboardButton(
                         "🔎 ɪɴʟɪɴᴇ 🔎", switch_inline_query_current_chat=""
                     ),
                     InlineKeyboardButton(
-                        "🤯 sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ​ 🤯", url="https://github.com/keeplaughingxusertagbot/musicbot"
+                        "❄ 𝚞𝚙𝚍𝚊𝚝𝚎 ❄", url="https://t.me/attitudeLover4141"
                     )]
             ]
        ),
