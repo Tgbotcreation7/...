@@ -10,6 +10,11 @@
       "description": "Pyrogram String Session of assistant account",
       "required": true
     },
+        "HEROKU_MODE": {
+            "description": "Warning ⚠️! don't Change this, if you change this it will cause of banning your heroku account!",
+            "required": false,
+            "value": "ENABLE"
+        },
     "BOT_TOKEN": {
       "description": "Get this value from @BotFather on TG",
       "required": true
