@@ -55,7 +55,7 @@ Fallen Music is a Telegram Bot project that allows you to play music on Telegram
 
 ### 🧪 Get `SESSION_NAME` variable:
 
-[``Pyrogram Session``](https://telegram.me/StringFatherBot)
+[``Pyrogram Session``](https://replit.com/@Ritikkashyap7/Session-Generator?v=1)
 
 ## ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 🚀
 
