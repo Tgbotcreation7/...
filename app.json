@@ -3,7 +3,7 @@
   "logo": "https://telegra.ph/file/a51ea7faf4cfc211f129b.jpg",
   "description": "A SuperFast VC Player bot to play songs in Telegram Video Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram", "fallen"],
-  "repository": "https://github.com/keeplaughingxusertagbot/musicbot",
+  "repository": "https://github.com/Ritikkashyap6/Love_Music_7",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
@@ -40,17 +40,17 @@
     "OWNER_USERNAME": {
       "description": "Username of the person who will known as owner of the bot, without @",
       "required": false,
-      "value": "mujhse_dosti_karlo"
+      "value": "Ritik_kashyap_7"
     },
     "SUPPORT_GROUP": {
       "description": "Username of the group where users will go and disturb you, without @",
       "required": false,
-      "value": "billufeelings"
+      "value": "yarri_ka_circle"
     },
     "SUDO_USERS": {
       "description": "User IDs of the users who will counted as admin everywhere (if more than one separate them by space).",
       "required": true,
-      "value": "1356469075"
+      "value": "2122501003"
     },
     "START_IMG": {
       "description": "Telegraph link of the pic which you want to set as the start pic of your bot",
