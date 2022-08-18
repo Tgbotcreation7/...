@@ -1,7 +1,7 @@
 <p align="center">
     <br><b>😫 😫</b><br>
-</p>
-<p align="center"><a href="https://te.legra.ph/file/3261e6b0f7746c55c1402.jpg"><img src=""></a></p>
+</p>https://te.legra.ph/file/3261e6b0f7746c55c1402.jpg
+<p align="center"><a href=""><img src=""></a></p>
 
 Fallen Music is a Telegram Bot project that allows you to play music on Telegram through Telegram Voice Chat Feature</b><br>
 
