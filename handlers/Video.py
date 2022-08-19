@@ -5,7 +5,6 @@ import io
 import os
 import time
 import requests
-import wget
 import yt_dlp
 from urllib.parse import urlparse
 from pyrogram import filters
